@@ -1,0 +1,21 @@
+.orange{
+    color: orange;
+}
+
+.bold{ text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+#sp{text-align: right;
+    color: gray;
+}  
+.p1{
+    color: orange;
+}
+.img{
+    background-image: url(pexels-padrinan-255379.jpg);
+}
+.rd{
+   border-radius: 1px solid;
+}

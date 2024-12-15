@@ -1,0 +1,37 @@
+
+
+
+body{
+    background-color: blanchedalmond;
+}
+
+div{
+
+    border: solid;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+strong{
+    background-color: orange;
+}
+.y{
+    background-color: yellow;
+
+}
+.div2{
+    border: dashed ;
+    background-color: white;
+}
+.p2{
+    border: dashed red;
+
+}
+.div3{
+    border: solid;
+    background-color: white;
+}
+.p3{
+    color: purple;
+}
